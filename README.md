@@ -1,3 +1,3 @@
-# agri-ecosystem-api
+# NERACE Buyer and seller API 
 
-agri-ecosystem-api
+API portal for NEDFI nerace buyer and seller portal
